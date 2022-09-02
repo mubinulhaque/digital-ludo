@@ -1,0 +1,26 @@
+Version 0.1:
+- Implemented basic main menu
+	+ Basic hover bar added
+	+ Options button added with no functionality as of yet
+	+ Play button loads the Classic Board
+- Basic board spaces added
+- Safe board spaces added
+	+ Any token on these spaces cannot be eaten by tokens of other players
+	
+Version 0.2:
+- Main menu updated
+	+ Play button leads to board selection menu
+	+ Board selection menu has one board
+- Player joining menu added
+	+ Displays controller being used and colour of the player
+	+ DualShock and DualSense controllers change lightbar colours
+	
+Version 0.3:
+- Main game functionality finished
+	+ Classic Board can be played from start to finish with 1 to 4 players
+	+ Winning can technically be done by getting all your tokens to the last board space
+	+ No results screen as of yet; planned for future versions
+- Dice added
+	+ Prints dice rolls to the Unity Console window; to be changed in future versions
+- Tokens added
+	+ Capsule used as placeholder model
